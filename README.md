@@ -10,7 +10,7 @@ In transition to Cybersecurity with focus in SOC. Documenting networking and cyb
 -System: Linux, Windows
 
 ### Labs
-- [01 - CCNA Labs](.01-ccna-labs/)
+- [01 - CCNA Labs](./01-ccna-labs/)
 - [02 - SOC / SIEM Labs](./02-soc-siem-labs/)
 - [03 - Wireshark Analysis](./03-wireshark-analysis/)
 
